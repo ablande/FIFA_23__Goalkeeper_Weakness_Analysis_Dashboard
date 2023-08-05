@@ -20,7 +20,8 @@ The interactive Tableau dashboard will enable gamers to gain a comprehensive und
 
 To test the results, I conducted two FIFA 23 tournament competitions among our friends and roommates. There was a total of 8 participants in each tournament. The participants were the same in each tournament. A participant played one match against each participant i.e. each participant played 7 games in each tournament. These are the results before and after using the Tableau Dashboard.
 
- 
+  <img width="450" alt="Screenshot 2023-08-04 at 5 49 13 PM" src="https://github.com/ablande/FIFA_23__Goalkeeper_Weakness_Analysis_Dashboard/assets/96832319/d60ff029-f769-42f7-b5a5-a9eed60bc1c7">
+
 
 
 
